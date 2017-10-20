@@ -1,0 +1,1 @@
+For test07.inp, I’m getting an ERROR (other program fails to finish). I’m unsure as to what this error message means/why it’s coming about. I thought it might have something to do with the fact that my program takes 7 moves before coming to a consensus that Blue wins, or that I’m printing unnecessary output. Thank you for your help!

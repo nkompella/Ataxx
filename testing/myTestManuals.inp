@@ -1,0 +1,29 @@
+# Testing two manual players against eachother
+# Play two instances of Ataxx against each other from set-up position.
+# First program:
+java -ea ataxx.Main
+manual red
+manual blue
+start
+a7-a6
+a1-a3
+a6-a4
+g7-e7
+a7-a3
+a7-c7
+e7-d7
+g1-g2
+g2-g3
+c7-c6
+a4-a5
+dump
+@<===
+@<  - - b b b - -
+@<  - - b - - - -
+@<  r - - - - - -
+@<  r - - - - - -
+@<  r - - - - - -
+@<  - - - - - - r
+@<  - - - - - - r
+@<===
+quit

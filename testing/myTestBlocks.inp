@@ -1,0 +1,18 @@
+# Trivial test of set-up with blocks
+java -ea ataxx.Main
+block b2
+block b2
+block b2
+a7-a5
+g1-f2
+dump
+@<===
+@<  - - - - - - b
+@<  - X - - - X -
+@<  r - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - X - - - X -
+@<  b - - - - - r
+@<===
+quit
